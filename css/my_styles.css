@@ -1,0 +1,23 @@
+h1{
+  color: brown;
+  text-align:center;
+  font-family:sans-serif;;
+}
+h2{
+  color:black;
+  text-align:center;
+  font-family:serif;
+}
+h3{
+  color: black;
+  text-align:center;
+  font-family:serif;
+}
+h4{
+  color:black;
+  text-align:center;
+  font-family:serif
+}
+#image_holder{
+  text-align: center;
+}
